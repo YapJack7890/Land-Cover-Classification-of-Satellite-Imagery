@@ -14,14 +14,14 @@ EfficientNet
 
 Vision Transformer (ViT)
 
-Repository Structure
+## Repository Structure
 
 classification.zip — contains the VMamba model
 
-ResNet/ — contains the ResNet50 model
+ResNet — contains the ResNet50 model
 
 Alex_Efficient_Vit.ipynb — contains implementations of AlexNet, EfficientNet, and Vision Transformer
 
-Dataset
+## Dataset
 
 Due to the large file size of the satellite image dataset used in this project, the dataset is not included in this repository.
