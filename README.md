@@ -4,27 +4,29 @@ This repository contains the models used for land-cover segmentation and classif
 
 A total of five models were trained for this project:
 
-VMamba
+1. VMamba
 
-ResNet50
+2. ResNet50
 
-AlexNet
+3. AlexNet
 
-EfficientNet
+4. EfficientNet
 
-Vision Transformer (ViT)
+5. Vision Transformer (ViT)
 
 ## Repository Structure
 
-Report Folder — contains all reports for the project
+1. Report/ — contains all project reports and documentation
 
-pro
+2. Data Processing.ipynb — performs dataset preprocessing, cleaning, and preparation for model training
 
-classification.zip — contains the VMamba model
+3. classification.zip — contains the trained VMamba model
 
-ResNet — contains the ResNet50 model
+4. ResNet/ — contains the trained ResNet50 model
 
-Alex_Efficient_Vit.ipynb — contains implementations of AlexNet, EfficientNet, and Vision Transformer
+5. Alex_Efficient_Vit.ipynb — contains implementations of AlexNet, EfficientNet, and Vision Transformer (ViT)
+
+6. FYP2 Experiment on V2 random split.ipynb — contains experimental files, configurations, and results for FYP Phase 2, using Version 2 random sampling
 
 ## Dataset
 
