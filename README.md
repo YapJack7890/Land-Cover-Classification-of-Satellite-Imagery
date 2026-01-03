@@ -16,6 +16,10 @@ Vision Transformer (ViT)
 
 ## Repository Structure
 
+Report Folder — contains all reports for the project
+
+pro
+
 classification.zip — contains the VMamba model
 
 ResNet — contains the ResNet50 model
